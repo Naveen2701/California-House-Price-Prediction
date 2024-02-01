@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+fastapi
+uvicorn
+pydantic
+json
+pickle
+scikit-learn
+requests
+numpy
+joblib

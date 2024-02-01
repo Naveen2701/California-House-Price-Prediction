@@ -1,0 +1,13 @@
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install fastapi
+pip install uvicorn
+pip install pickle5
+pip install pydantic
+pip install scikit-learn
+pip install requests
+pip install pypi-json
+pip install numpy
+pip install joblib
